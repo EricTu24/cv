@@ -2,7 +2,7 @@
 title: "Aoxi (Eric) Tu"
 format:
   html:
-    theme: cosmo
+    theme: darkly
     toc: false
     page-layout: full
 execute:
