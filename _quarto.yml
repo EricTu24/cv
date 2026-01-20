@@ -5,5 +5,5 @@ website:
   title: "Aoxi Tu CV"
 format:
   html:
-    theme: cosmo
+    theme: darkly
     toc: false

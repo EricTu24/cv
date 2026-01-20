@@ -1,12 +1,5 @@
 ---
 title: "Aoxi (Eric) Tu"
-format:
-  html:
-    theme: darkly
-    toc: false
-    page-layout: full
-execute:
-  echo: false
 ---
 
 ```{=html}
