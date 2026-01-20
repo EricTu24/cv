@@ -4,7 +4,6 @@ title: "Aoxi (Eric) Tu"
 
 ```{=html}
 <style>
-<style>
 main { max-width: 1200px; }
 
 /* SECTION HEADERS */
@@ -99,7 +98,6 @@ h2 {
 </div>
 ```
 
-
 ## Education Background
 
 ```{=html}
@@ -169,7 +167,7 @@ h2 {
 <div class="cv-row">
   <div class="cv-date">2025.07–2025.09</div>
   <div class="cv-main">
-  <span class="cv-inst">Hubei Wiselink Equipment Manufacturing Co., Ltd</span>, Jingzhou Hubei
+  <span class="cv-inst">Hubei Wiselink Equipment Manufacturing Co., Ltd</span>, Jingzhou
 </div>
   <div class="cv-right">Electrical Engineer Intern</div>
 </div>
@@ -194,6 +192,6 @@ h2 {
 
 ## Professional Skills
 
-- **Languages:** Mandarin (Native); English (Proficient); Spanish (Intermediate); Hebrew (Basic)
-- **Skills:** Python (Advanced); C (Intermediate); C# (Basic); R (Basic); Markup Languages: HTML, XML, XAML (Basic); JavaScript (Fundamental).
-- **Interests:** Language learning (e.g., Spanish, Hebrew), Programming Language, Theatre, Singing, etc.
+-   **Languages:** Mandarin (Native); English (Proficient); Spanish (Intermediate); Hebrew (Basic)
+-   **Skills:** Python (Advanced); C (Intermediate); C# (Basic); R (Basic); Markup Languages: HTML, XML, XAML (Basic); JavaScript (Fundamental).
+-   **Interests:** Language learning (e.g., Spanish, Hebrew), Programming Language, Theatre, Singing, etc.
