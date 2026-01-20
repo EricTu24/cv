@@ -1,0 +1,9 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Aoxi Tu CV"
+format:
+  html:
+    theme: cosmo
+    toc: false

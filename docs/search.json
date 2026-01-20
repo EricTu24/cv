@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aoxi (Eric) Tu",
+    "section": "",
+    "text": "Email:\n    \n      aoxi001@e.ntu.edu.sg\n    \n     | \n    LinkedIn:\n    \n      www.linkedin.com/in/aoxi-tu-923546357"
+  },
+  {
+    "objectID": "index.html#education-background",
+    "href": "index.html#education-background",
+    "title": "Aoxi (Eric) Tu",
+    "section": "Education Background",
+    "text": "Education Background\n\n  2022.09–2025.12\n  University of Chicago\n  Chicago, IL, USA\n\n\n\n  \n  Cognitive Science (BA) and Linguistics (BA)\n  GPA: 3.985/4.0\n\n\n\n  \n  \n    Major Coursework: Mathematical Foundations of Machine Learning (A), Prediction in Language Comprehension (A), Foundations of Neurolinguistics (A), Introduction to Computer Science (A), Cognitive Models (A), Systems Programming (A), Experimental and Computational Methods in Linguistic Research (A), Quantitative Research Methods in Linguistics (A), etc. \n    Honors and Awards: Summa cum laude, 4th year; Georgiana Simpson Scholar Humanities Collegiate Divisional Honors, 3rd Year (Top 5%); Deans’s List (Top 20%), 2024-2025; Robert Maynard Hutchins Scholar (Top 10%), 2023-2024; Dean’s List (Top 20%), 2023-2024; Dean’s List (Top 20%), 2022-2023, etc."
+  },
+  {
+    "objectID": "index.html#academic-experience",
+    "href": "index.html#academic-experience",
+    "title": "Aoxi (Eric) Tu",
+    "section": "Academic Experience",
+    "text": "Academic Experience\n\n  2024.10–2025.12\n  \n    \n      Speech Perception and Production Lab\n    , University of Chicago\n  \n  Research Assistant\n\n\n\n  \n  \n    \n      Contributed to postdoctoral research on language perception, including studies on the effects of exposure to non-native English vowel productions using eye-tracking paradigms.\n      Gained mastery of the full research cycle, from experimental design and data collection to statistical analysis and result reporting.\n      Used Praat software to preprocess and analyze experimental data stored in WAV files, including acoustic spectrogram reading, acoustic boundary labeling, and data curation, etc.\n      Attended weekly lab meetings to provide critical feedback and advice to team members on ongoing research projects.\n      Collaborated with team members via tools such as Slack, Trello, and Box, ensuring transparent workflows and consistent data management.\n    \n\n    Research Outcomes & Skills Gained:\n    \n      Developed expertise in acoustic analysis, linguistic experimental design, and team-based research workflows.\n      Strengthened competence in statistical and computational methods (Python, R) applied to linguistic data analysis.\n      Strengthened research writing skills and multimodal academic expression.\n      Enhanced interdisciplinary collaboration and project communication skills.Lay a solid foundation for future research in language modeling, cognitive neurolinguistics, and natural language processing at the master's level."
+  },
+  {
+    "objectID": "index.html#internship-experience",
+    "href": "index.html#internship-experience",
+    "title": "Aoxi (Eric) Tu",
+    "section": "Internship Experience",
+    "text": "Internship Experience\n\n  2025.07–2025.09\n  \n  Hubei Wiselink Equipment Manufacturing Co., Ltd, Jingzhou Hubei\n\n  Electrical Engineer Intern\n\n\n\n  \n  \n  \n    Designed user-friendly graphical interfaces using C#, WPF, and Prism under MVVM software architectural patterns.\n    Implemented Ethernet-based PLC communication protocols to structure mesages between PC softwares and the PLC runtime systems.\n    Developed PLC programs in TwinCAT, including implementing control logic in IEC 61131-3 languages (Structured Text, Instruction List, Ladder Diagram, Function Block Diagram, Sequential Function Chart), configuring I/O mapping, and testing execution through simulations.\n  \n  Key Achievements & Skills Developed:\n  \n    Applied C# programming to real-world software development, strengthening problem-solving and implementation skills.\n    Gained hands-on experience in IEC 61131-3 languages for controlling PLC simulations and hardware systems.\n    Expanded computer science foundations and expertise in modular design, system operations, and applied engineering contexts, complementing academic research in linguistics."
+  },
+  {
+    "objectID": "index.html#professional-skills",
+    "href": "index.html#professional-skills",
+    "title": "Aoxi (Eric) Tu",
+    "section": "Professional Skills",
+    "text": "Professional Skills\n\nLanguages: Mandarin (Native); English (Proficient); Spanish (Intermediate); Hebrew (Basic)\nSkills: Python (Advanced); C (Intermediate); C# (Basic); R (Basic); Markup Languages: HTML, XML, XAML (Basic); JavaScript (Fundamental).\nInterests: Language learning (e.g., Spanish, Hebrew), Programming Language, Theatre, Singing, etc."
+  }
+]
