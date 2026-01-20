@@ -4,13 +4,14 @@ title: "Aoxi (Eric) Tu"
 
 ```{=html}
 <style>
+<style>
 main { max-width: 1200px; }
 
 /* SECTION HEADERS */
 h2 {
   text-transform: uppercase;
   font-weight: 800;
-  border-bottom: 4px solid #888;
+  border-bottom: 4px solid #000;
   padding-bottom: .15rem;
   margin-top: 1.2rem;
 }
@@ -154,7 +155,7 @@ h2 {
       <li>Developed expertise in acoustic analysis, linguistic experimental design, and team-based research workflows.</li>
       <li>Strengthened competence in statistical and computational methods (Python, R) applied to linguistic data analysis.</li>
       <li>Strengthened research writing skills and multimodal academic expression.</li>
-      <li>Enhanced interdisciplinary collaboration and project communication skills.</li
+      <li>Enhanced interdisciplinary collaboration and project communication skills.</li>
       <li>Lay a solid foundation for future research in language modeling, cognitive neurolinguistics, and natural language processing at the master's level.</li>
       
     </ul>
