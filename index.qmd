@@ -89,6 +89,9 @@ h2 {
       aoxi001@e.ntu.edu.sg
     </a>
     &nbsp;|&nbsp;
+    <a href="mailto:aoxitu1028@outlook.com">
+      aoxitu1028@outlook.com
+    </a><br>
     <strong>LinkedIn:</strong>
     <a href="https://www.linkedin.com/in/aoxi-tu-923546357"
        target="_blank" rel="noopener">
@@ -101,6 +104,18 @@ h2 {
 ## Education Background
 
 ```{=html}
+<div class="cv-row">
+  <div class="cv-date">2026.01–2027.12</div>
+  <div class="cv-inst">Nanyang Technological University Singapore</div>
+  <div class="cv-right-light">Singapore</div>
+</div>
+
+<div class="cv-row">
+  <div></div>
+  <div><strong>Linguistics and Multilingual Studies (MA)</strong></div>
+  <div class="cv-right"></div>
+</div>
+
 <div class="cv-row">
   <div class="cv-date">2022.09–2025.12</div>
   <div class="cv-inst">University of Chicago</div>
@@ -141,11 +156,11 @@ h2 {
   <div></div>
   <div>
     <ul>
-      <li>Contributed to postdoctoral research on language perception, including studies on the effects of exposure to non-native English vowel productions using eye-tracking paradigms.</li>
+      <li>Contributed to postdoctoral research on the effects of exposure to non-native English vowel productions using eye-tracking paradigms.</li>
       <li>Gained mastery of the full research cycle, from experimental design and data collection to statistical analysis and result reporting.</li>
-      <li>Used Praat software to preprocess and analyze experimental data stored in WAV files, including acoustic spectrogram reading, acoustic boundary labeling, and data curation, etc.</li>
+      <li>Used Praat to preprocess and analyze experimental data in WAV files, including spectrogram reading, acoustic boundary labeling, and data curation, etc.</li>
       <li>Attended weekly lab meetings to provide critical feedback and advice to team members on ongoing research projects.</li>
-      <li>Collaborated with team members via tools such as Slack, Trello, and Box, ensuring transparent workflows and consistent data management.</li>
+      <li>Collaborated with team members via Slack, Trello, and Box, ensuring transparent workflows and consistent data management.</li>
     </ul>
 
     <div class="cv-subhead">Research Outcomes & Skills Gained:</div>
@@ -154,7 +169,7 @@ h2 {
       <li>Strengthened competence in statistical and computational methods (Python, R) applied to linguistic data analysis.</li>
       <li>Strengthened research writing skills and multimodal academic expression.</li>
       <li>Enhanced interdisciplinary collaboration and project communication skills.</li>
-      <li>Lay a solid foundation for future research in language modeling, cognitive neurolinguistics, and natural language processing at the master's level.</li>
+      <li>Lay a solid foundation for future research in language modeling, cognitive linguistics, and natural language processing at the master's level.</li>
       
     </ul>
   </div>
@@ -177,13 +192,13 @@ h2 {
   <div>
   <ul>
     <li>Designed user-friendly graphical interfaces using C#, WPF, and Prism under MVVM software architectural patterns.</li>
-    <li>Implemented Ethernet-based PLC communication protocols to structure mesages between PC softwares and the PLC runtime systems.</li>
-    <li>Developed PLC programs in TwinCAT, including implementing control logic in IEC 61131-3 languages (Structured Text, Instruction List, Ladder Diagram, Function Block Diagram, Sequential Function Chart), configuring I/O mapping, and testing execution through simulations.</li>
+    <li>Implemented Ethernet-based PLC communication protocols to structure messages between PC softwares and the PLC runtime systems.</li>
+    <li>Learned to develop PLC programs in TwinCAT, including implementing control logic in IEC 61131-3 languages, configuring I/O mapping, and testing execution through simulations.</li>
   </ul>
   <div class="cv-subhead">Key Achievements & Skills Developed:</div>
   <ul>
     <li>Applied C# programming to real-world software development, strengthening problem-solving and implementation skills.</li>
-    <li>Gained hands-on experience in IEC 61131-3 languages for controlling PLC simulations and hardware systems.</li>
+    <li>Gained hands-on experience in controlling PLC simulations and hardware systems.</li>
     <li>Expanded computer science foundations and expertise in modular design, system operations, and applied engineering contexts, complementing academic research in linguistics.</li>
   </ul>
   </div>
