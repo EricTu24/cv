@@ -208,5 +208,5 @@ h2 {
 ## Professional Skills
 
 -   **Languages:** Mandarin (Native); English (Proficient); Spanish (Intermediate); Hebrew (Basic)
--   **Skills:** Python (Advanced); R (Intermediate); C (Intermediate); LaTeX (Intermediate); C# (Basic); Markup Languages: HTML, XML, XAML (Basic); JavaScript (Fundamental).
+-   **Skills:** Python (Advanced); R (Intermediate); LaTeX (Intermediate); C (Intermediate); C# (Basic); Markup Languages: HTML, XML, XAML (Basic); JavaScript (Fundamental).
 -   **Interests:** Language learning (e.g., Spanish, Hebrew), Programming Language, Theatre, Singing, etc.
